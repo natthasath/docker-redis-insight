@@ -8,7 +8,7 @@ RedisInsight is a visual tool that provides capabilities to design, develop and 
 
 ### 🥈 Run
 
-- [http://localhost:8080/](http://localhost:6380/) username : `admin` password : `admin`
+- [http://localhost:6380/](http://localhost:6380/)
 
 ```shell
 docker-compose up -d
