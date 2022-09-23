@@ -6,6 +6,12 @@ RedisInsight is a visual tool that provides capabilities to design, develop and 
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
+### 🔨 Config
+
+- Host : localhost
+- Port : 6379
+- Password : password
+
 ### 🥈 Run
 
 - [http://localhost:6380/](http://localhost:6380/)
