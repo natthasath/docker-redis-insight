@@ -11,7 +11,7 @@ services:
     volumes:
       - /root/redis/data:/db
     command:
-      - --requirepass redis
+      - --requirepass password
 
   insight:
     image: redislabs/redisinsight:latest
