@@ -6,13 +6,13 @@ RedisInsight is a GUI tool for managing, analyzing, and visualizing data in Redi
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🔨 Config
+### 🔑 Configuration
 
 - Host : localhost
 - Port : 6379
 - Password : password
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:6380/](http://localhost:6380/)
 
